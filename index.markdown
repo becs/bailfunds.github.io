@@ -8,7 +8,7 @@ title: "List of Bail Funds for Protestors"
 *This list is intended to be comprehensive. We worked with [National Bail Fund Network](https://www.communityjusticeexchange.org/national-bail-fund-network) to ensure the validity of these. If there is something missing, please email [info@communityjusticeexchange.org](mailto:info@communityjusticeexchange.org) or make a pull request on the [github repository](https://github.com/bailfunds/bailfunds.github.io).*
 
 ## National
-* [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Available to assist with coordination*
+* [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Avaliable to assist with coordination*
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts*
 
 ## Alabama
@@ -30,7 +30,7 @@ title: "List of Bail Funds for Protestors"
 ### Bay Area
 * [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
 * [Bay Area Anti- Repression Committee Bail Fund](https://rally.org/ARCbailfund)
-* [Oakland's People's Breakfast](https://linktr.ee/PBO)
+* [People's Programs Oakland](https://www.paypal.me/peoplesprograms)
 * [Silicon Valley DSA Bail Fund](https://siliconvalleydsa.org/donations/)
 
 ### Orange County
@@ -87,10 +87,6 @@ title: "List of Bail Funds for Protestors"
 * [Hawai'i Community Bail Fund](https://hawaiicommunitybailfund.org/)
 
 ## Illinois
-
-### Champaign County
-* [Champaign County Bailout Coalition] (https://champaigncountybailoutcoalition.wordpress.com/)
-
 ### Chicago
 * [Chicago Community Bond Fund](https://chicagobond.org/)
 
@@ -243,9 +239,6 @@ title: "List of Bail Funds for Protestors"
 ### El Paso
 * [Fianza Fund](https://venmo.com/fianza-fund)
 
-### Fort Worth
-* [Tarrant County Community Bail Fund](https://actionnetwork.org/fundraising/tarrant-county-community-bail-fund)
-
 ### Harris, Dallas, Bexar Counties
 * [Texas Organizing Project Bailout Fund](http://organizetexas.org/topcommunitybailoutfund/)
 
@@ -254,6 +247,12 @@ title: "List of Bail Funds for Protestors"
 * [Salt Lake City Community Bail](https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd)
 
 ## Virginia
+### Charlottesville
+* [Blue Ridge Community Bail Fund](https://gf.me/u/x6czhg)
+
+### Fredericksburg
+* [VA Black Business Directory Defense Fund](https://gf.me/u/x6bbpg)
+
 ### Richmond
 * [Richmond Community Bail Fund](https://rvabailfund.org/)
 
@@ -274,6 +273,7 @@ title: "List of Bail Funds for Protestors"
 
 ## Washington, District of Columbia
 * *Money bail is not used in Washington, DC*
+* [BLM Legal Defense Fund](https://gf.me/u/x54yjf)
 
 ## Wisconsin
 ### Madison
